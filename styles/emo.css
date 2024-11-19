@@ -244,6 +244,9 @@ tbody th {
     header {
       width: 100%;
     }
+    table {
+      justify-content: safe;
+    }
     header h1 {
       font-size: 1rem;
     }
