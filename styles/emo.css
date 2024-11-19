@@ -244,8 +244,12 @@ tbody th {
     header {
       width: 100%;
     }
+    body {
+      display:
+    }
     table {
-      width: fit-content;
+      width: min-content;
+      justify-content: right;
     }
     header h1 {
       font-size: 1rem;
