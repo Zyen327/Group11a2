@@ -235,6 +235,8 @@ tbody th {
     nav a {
       font-size: 0.5rem;
       margin-top: auto;
+      display: flex;
+      justify-content: center; 
     }
 
   
