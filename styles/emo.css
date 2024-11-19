@@ -245,7 +245,7 @@ tbody th {
       width: 100%;
     }
     table {
-      justify-content: safe;
+      width: fit-content;
     }
     header h1 {
       font-size: 1rem;
