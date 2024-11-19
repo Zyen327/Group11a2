@@ -244,12 +244,17 @@ tbody th {
     header {
       width: 100%;
     }
+    caption {
+      display: flex;
+      justify-content: space-around;
+    }
     body {
       display:
     }
     table {
       width: 50%;
       justify-content: right;
+      margin-left: 50px;
     }
     header h1 {
       font-size: 1rem;
