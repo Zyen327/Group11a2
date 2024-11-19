@@ -248,7 +248,7 @@ tbody th {
       display:
     }
     table {
-      width: min-content;
+      width: 50%;
       justify-content: right;
     }
     header h1 {
