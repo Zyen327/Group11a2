@@ -179,7 +179,7 @@
     width: 60%;  
     margin: 20px auto;
     margin-bottom: 75px;
-    position: relative;
+    justify-content: center;;
 }
 
 th {
@@ -241,6 +241,9 @@ tbody th {
 
   
   @media (max-width: 480px) {
+    header {
+      width: 100%;
+    }
     header h1 {
       font-size: 1rem;
     }
