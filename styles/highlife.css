@@ -234,7 +234,9 @@
   #side-nav {
     width: 100px; 
   }
-
+  details {
+    margin-bottom: 50px;
+  }
   header {
     height: 50px;
   }
